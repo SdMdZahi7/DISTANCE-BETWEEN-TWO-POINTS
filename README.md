@@ -18,6 +18,8 @@ End of the program.
 
 ### PROGRAM:
 ~~~
+Developed by:SYED MUHAMMED ZAHI
+Registerno:21004029
 import math
 d2=[10,6]
 d1=[4,2]
